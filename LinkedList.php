@@ -97,7 +97,7 @@ class LinkedList {
 	 * Remove the first element
 	 * Return the data of the element removed
 	 */
-	function size() {
+	function shift() {
 		if ($this->firstNode == null) {
 			return null;
 		} else {
