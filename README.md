@@ -3,7 +3,12 @@
 Linear data structures in php
 
 Files here:
-	<p>Node.php</p>
-	<p>DoubleNode.php</p>
-	<p>LinkedList.php</p>
-	<p>Stack.php</p>
+	<ul>
+		<li>Node.php</li>
+		<li>DoubleNode.php</li>
+		<li>LinkedList.php</li>
+		<li>Stack.php</li>
+	</ul>
+	
+	
+	
