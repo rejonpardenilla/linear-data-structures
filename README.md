@@ -7,6 +7,7 @@ Files here:
 		<li>Node.php</li>
 		<li>DoubleNode.php</li>
 		<li>LinkedList.php</li>
+		<li>DoubleLinkedList</li>
 		<li>Stack.php</li>
 	</ul>
 	
