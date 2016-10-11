@@ -2,7 +2,7 @@
 require_once 'Node.php';
 
 class DoubleNode extends Node{
-	private $previousNode;
+	protected $previousNode;
 
 	function __construct($data) {
 		parent::__construct($data);

@@ -1,7 +1,6 @@
 <?php 
 
 class DoubleLinkedList extends LinkedList {
-	private $firstNode;
 
 	/**
 	 * remove:

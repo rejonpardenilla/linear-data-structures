@@ -2,7 +2,7 @@
 require_once 'Node.php';
 
 class LinkedList {
-	private $firstNode;
+	protected $firstNode;
 	/**
 	 * add:
 	 * Add a data after the last element

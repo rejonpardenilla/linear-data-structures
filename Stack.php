@@ -2,8 +2,8 @@
 require_once 'DoubleNode.php';
 
 class Stack{
-	private $first;
-	private $top;
+	protected $first;
+	protected $top;
 
 	function __construct() {
 		$this->first = null;
