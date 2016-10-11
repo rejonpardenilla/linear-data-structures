@@ -1,9 +1,9 @@
-README.md - non-linear-data-structures
+<h1>README - linear-data-structures</h1>
 
-Non linear data structures in php
+Linear data structures in php
 
 Files here:
-	Node.php
-	DoubleNode.php
-	LinkedList.php
-	Stack.php
+	<p>Node.php</p>
+	<p>DoubleNode.php</p>
+	<p>LinkedList.php</p>
+	<p>Stack.php</p>
