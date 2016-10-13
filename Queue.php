@@ -17,11 +17,6 @@ class Queue extends LinkedList {
 
 	}
 
-	/**
-	 * Override ->
-	 * shift:
-	 * add:
-	 */
 
 }
 
